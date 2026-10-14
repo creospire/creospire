@@ -8,7 +8,7 @@ I'm learning to build useful projects, improve my coding skills, and turn ideas 
 
 ## 🚀 My Projects
 
-- 🌐 [My Portfolio](https://creospire.github.io/) — Explore my projects.
+- 🌐 [My Portfolio]( https://creospire.github.io/My-Portfolio/) — Explore my projects.
 - 📊 [Pocket Manager](https://creospire.github.io/Pocket-manager/) — Manage personal expenses.
 - 🔍 [GitHub Profile Analyzer](https://creospire.github.io/github-profile-analyzer/) — Explore GitHub profiles.
 - 📚 StudyFlow — Organize study tasks.
