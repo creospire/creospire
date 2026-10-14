@@ -8,15 +8,14 @@ I'm learning to build useful projects, improve my coding skills, and turn ideas 
 
 ## 🚀 My Projects
 
-- 📊 Pocket Manager — Managing personal expenses.
-- 🔍 GitHub Profile Analyzer — Exploring GitHub profiles.
-- 📚 StudyFlow — Organizing study tasks.
-- ✅ TaskFlow — Managing daily tasks.
-- 🔐 Secure Notes — Keeping notes organized.
-- 📱 QR Studio — Creating QR codes.
+- 🌐 [My Portfolio](https://creospire.github.io/) — Explore my projects.
+- 📊 [Pocket Manager](https://creospire.github.io/Pocket-manager/) — Manage personal expenses.
+- 🔍 [GitHub Profile Analyzer](https://creospire.github.io/github-profile-analyzer/) — Explore GitHub profiles.
+- 📚 StudyFlow — Organize study tasks.
+- ✅ TaskFlow — Manage daily tasks.
+- 🔐 Secure Notes — Keep notes organized.
+- 📱 QR Studio — Create QR codes.
 - 🤖 Mr AI — My beginner AI project.
-- 🌐 My Portfolio — A showcase of my projects.
-
 ## 🛠️ Currently Learning
 
 - HTML & CSS
