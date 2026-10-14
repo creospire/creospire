@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hey, I'm Creospire! 👋
 
-<!--
-**creospire/creospire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Beginner Developer | Future Entrepreneur
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm learning to build useful projects, improve my coding skills, and turn ideas into reality.
+
+## 🚀 My Projects
+
+- 📊 Pocket Manager — Managing personal expenses.
+- 🔍 GitHub Profile Analyzer — Exploring GitHub profiles.
+- 📚 StudyFlow — Organizing study tasks.
+- ✅ TaskFlow — Managing daily tasks.
+- 🔐 Secure Notes — Keeping notes organized.
+- 📱 QR Studio — Creating QR codes.
+- 🤖 Mr AI — My beginner AI project.
+- 🌐 My Portfolio — A showcase of my projects.
+
+## 🛠️ Currently Learning
+
+- HTML & CSS
+- JavaScript
+- Git & GitHub
+- Artificial Intelligence
+
+## 🎯 My Goal
+
+Build small projects, learn from every experience, and gradually create bigger things.
+
+---
+
+**Small steps. Real projects. Bigger dreams.** 🚀
